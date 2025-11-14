@@ -1,0 +1,27 @@
+
+nov 14, 2025 12:26:40 P.M. practica07.SistemaBancoLEMG initLogger
+INFORMACIÓN: Logger inicializado. Usuario: Luis Enrique Matta Gonzalez, Matricula: 2114428
+nov 14, 2025 12:26:54 P.M. practica07.SistemaBancoLEMG retirar
+INFORMACIÓN: Retiro exitoso. Matricula 2114428 monto 100.0 nuevo saldo 400.0
+nov 14, 2025 12:27:01 P.M. practica07.SistemaBancoLEMG importarClientesCSV
+INFORMACIÓN: Importacion CSV: 2 registros. Omitidas: 0. Archivo=test\practica07\clientes.csv
+nov 14, 2025 12:27:53 P.M. practica07.SistemaBancoLEMG initLogger
+INFORMACIÓN: Logger inicializado. Usuario: Luis Enrique Matta Gonzalez, Matricula: 2114428
+nov 14, 2025 12:27:53 P.M. practica07.SistemaBancoLEMG retirar
+INFORMACIÓN: Retiro exitoso. Matricula 2114428 monto 100.0 nuevo saldo 400.0
+nov 14, 2025 12:27:53 P.M. practica07.SistemaBancoLEMG retirar
+ADVERTENCIA: Saldo insuficiente para 2114428 intento retirar 480.0 saldo 500.0
+nov 14, 2025 12:27:53 P.M. practica07.SistemaBancoLEMG retirar
+GRAVE: Error controlado: No puedes bajar del minimo de 44.28
+nov 14, 2025 12:27:53 P.M. practica07.SistemaBancoLEMG retirar
+INFORMACIÓN: Retiro exitoso. Matricula 2114428 monto 50.0 nuevo saldo 450.0
+nov 14, 2025 12:27:53 P.M. practica07.SistemaBancoLEMG validarMatricula
+ADVERTENCIA: Matricula invalida: 'A'
+nov 14, 2025 12:27:53 P.M. practica07.SistemaBancoLEMG retirar
+GRAVE: Error controlado: Matricula no valida
+nov 14, 2025 12:27:53 P.M. practica07.SistemaBancoLEMG obtenerSaldo
+ADVERTENCIA: Usuario no encontrado: NOEXISTE
+nov 14, 2025 12:27:53 P.M. practica07.SistemaBancoLEMG retirar
+GRAVE: Error controlado: Usuario no encontrado: NOEXISTE
+nov 14, 2025 12:27:53 P.M. practica07.SistemaBancoLEMG importarClientesCSV
+INFORMACIÓN: Importacion CSV: 2 registros. Omitidas: 0. Archivo=test\practica07\clientes.csv
