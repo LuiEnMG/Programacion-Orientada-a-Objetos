@@ -1,0 +1,4 @@
+Alumno: Luis Enrique Matta Gonzalez
+Matricula: 2114428
+FechaNacimiento: 06/04
+Generado: 2025-11-14T20:26:42.2316925
