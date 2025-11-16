@@ -1,0 +1,1 @@
+Inclui un programa que encontre a ultimo minuto que me ayudo con el problema de que no podia ejecutar el .jar que compile con NetBeans en Windows 11, aunque no se si es problema de el sistema operativo o con el runtime de Java, el programa es un .exe llamado jarfix y lo saque de la siguiente liga: https://johann.loefflmann.net/en/software/jarfix/index.html
